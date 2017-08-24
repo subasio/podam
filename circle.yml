@@ -1,0 +1,2 @@
+test:
+  - mvn install:install-file -DgroupId=org.eclipse.mylyn.github -DartifactId=org.eclipse.egit.github.core -Dversion=3.1.0.201310021548-r -Dpackaging=jar -Dfile=src/org.eclipse.egit.github.core-3.1.0.201310021548-r.jar
